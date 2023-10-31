@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm @fanmengwang 👋
 
 <!--
 **FanmengWang/fanmengwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+   <img width="48%" src="https://readme-stats.jonas-bernard.dev/api?username=fanmengwang&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fanmengwang&theme=tokyonight" />
+</p>
